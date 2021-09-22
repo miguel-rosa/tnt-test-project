@@ -10,3 +10,7 @@ body {
     justify-content:center;
     font-family: 'Montserrat', sans-serif;
 }
+
+#audio {
+    opacity:0;
+}
