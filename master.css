@@ -11,6 +11,14 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+* {
+    text-align: center;
+}
+
+h1 {
+font-size:50px
+}
+
 #audio {
     opacity:0;
 }
